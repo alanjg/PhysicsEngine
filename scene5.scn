@@ -1,0 +1,19 @@
+##Physics Simulator Scene Description File##
+Camera 0 0 30 45 15
+
+#polymesh plane.amf 0 0 0 0 0 1 15 0
+
+#polymesh plane.amf 0 0 10 1 0 0 -90 0
+#polymesh plane.amf 0 0 -10 1 0 0 90 0
+#polymesh plane.amf 10 0 0 0 0 1 90 0
+#polymesh plane.amf -10 0 0 0 0 1 -90 0
+polymesh vertplane.amf 0 0 10 0 0 1 0 0
+polymesh vertplane.amf 0 0 -10 0 1 0 180 0
+polymesh vertplane.amf 10 0 0 0 1 0 90 0
+polymesh vertplane.amf -10 0 0 0 1 0 -90 0
+polymesh vertplane.amf 0 0 0 1 0 0 90 0
+polymesh sphere.amf 2 5 2 1 0 0 90 1
+
+polymesh sphere.amf .2 15 0 0 0 1 0 1
+#sphere .2 15 0 1
+#sphere 0 5 0 1

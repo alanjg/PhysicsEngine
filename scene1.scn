@@ -1,0 +1,4 @@
+##Physics Simulator Scene Description File##
+Camera 0 0 30 135 15
+polymesh bigship.amf 0 0 0 0 0 0 0 0
+polymesh sphere.amf 3 10 0 0 0 0 0 1

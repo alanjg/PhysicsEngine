@@ -1,0 +1,6 @@
+##Physics Simulator Scene Description File##
+Camera 0 -2 50 45 15
+polymesh chick.amf 0 0 0 0 0 0 0 0
+polymesh bigship.amf 0 15 5 0 0 0 0 1
+polymesh sphere.amf 0 20 5 0 0 0 0 1
+polymesh sphere.amf 0 25 0 0 0 0 0 1

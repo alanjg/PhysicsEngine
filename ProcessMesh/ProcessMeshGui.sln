@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessMeshGui", "ProcessMeshGui.csproj", "{1B22896E-6937-4E38-BF19-DE69B3478D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1B22896E-6937-4E38-BF19-DE69B3478D05}.Debug.ActiveCfg = Debug|.NET
+		{1B22896E-6937-4E38-BF19-DE69B3478D05}.Debug.Build.0 = Debug|.NET
+		{1B22896E-6937-4E38-BF19-DE69B3478D05}.Release.ActiveCfg = Release|.NET
+		{1B22896E-6937-4E38-BF19-DE69B3478D05}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
